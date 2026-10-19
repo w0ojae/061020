@@ -1,0 +1,314 @@
+{
+  "version": "v35",
+  "date": "2026-10-20",
+  "kind": "github-pages-root",
+  "source_commit": "6d86c9a97ecf9869365694c2d3d3f4225c3a1f53",
+  "runtime_file_count": 58,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3176,
+      "sha256": "9c828c29890dc63812502540d6feb0a351fbe1ed005f80cc34d4ad3427e96d40"
+    },
+    {
+      "path": "_config.yml",
+      "bytes": 69,
+      "sha256": "60411bcfef297516c883f5d49d64f1243c6695a76f923ddf2abd87176d3fefa1"
+    },
+    {
+      "path": "assets/building2.glb",
+      "bytes": 10495444,
+      "sha256": "a9b28a9a46fa69e83db8083b0392752e5ae4dd8bc80c408193448ec1b197fe6c"
+    },
+    {
+      "path": "building-placement.js",
+      "bytes": 945,
+      "sha256": "aef1943a68144afb5d9a58422627ebf6a13ba4fd66541e4b2329345e19fd3220"
+    },
+    {
+      "path": "day-cycle.js",
+      "bytes": 708,
+      "sha256": "a9ab543e091b30f5303368aaefe10294e65d92cfbc85996c45e7bb5930d05760"
+    },
+    {
+      "path": "environment-garden.js",
+      "bytes": 12067,
+      "sha256": "372b55744280798d00e4cdff813d381f3e6ef9aa7013c361d0f55215c7d452ed"
+    },
+    {
+      "path": "first-person-dissolve.js",
+      "bytes": 15110,
+      "sha256": "dd60e8e3644b8c53014cd216b930225bccc40120c08ecfcce596b73e7d5cbe4d"
+    },
+    {
+      "path": "garden-birds.js",
+      "bytes": 15148,
+      "sha256": "73fb5aaf23b266ea807bb1015129006c08664e09246ca02d5f3074f43c620330"
+    },
+    {
+      "path": "glass-panes.js",
+      "bytes": 1214,
+      "sha256": "fa44abc39bada44ad422d1dc3a337003de891b552d559df42f1934fd598441cf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10142,
+      "sha256": "9c5617079fe5cddb993148f26ff4ad84b41c1aaa61552196099b21ea107d3095"
+    },
+    {
+      "path": "intro-approach.js",
+      "bytes": 1706,
+      "sha256": "cdb15281afa5d6a29c02daafa2078f763d3fbe673b8cf87a3c5a3505f2b70bcb"
+    },
+    {
+      "path": "intro-scroll.js",
+      "bytes": 7926,
+      "sha256": "5ca3576bb4fd6624c98437cefa42db6c51c1e225f119aac5a77a0a52fec364da"
+    },
+    {
+      "path": "intro-visuals.js",
+      "bytes": 1116,
+      "sha256": "52b1f3f868563488f3fe24b72eb2dd94c2c4bbabd404c95e356d8ff999b465a5"
+    },
+    {
+      "path": "main-garden.js",
+      "bytes": 33522,
+      "sha256": "4d1e55e2d446eee7ef158f5278d5a7da27b029cc9932bc3a28ce3ff6ca8ecf6d"
+    },
+    {
+      "path": "rain/THIRD_PARTY_NOTICES.md",
+      "bytes": 2191,
+      "sha256": "b983e49ab583163dce75fa9c96f9e71e80d2d197300ff85da1ddc05a8599cbcd"
+    },
+    {
+      "path": "rain/assets/drop-alpha.png",
+      "bytes": 5190,
+      "sha256": "b47a0ce3f301530a184b3f61aef521cfc4557e2e2aa0d834a70c5840882afb96"
+    },
+    {
+      "path": "rain/assets/drop-color.png",
+      "bytes": 5067,
+      "sha256": "0adcebe3a4ab3a8f71f49ebd98d23531330a74f0d439b7a8ae6307e95c372cfa"
+    },
+    {
+      "path": "rain/bead-field.js",
+      "bytes": 1713,
+      "sha256": "adc96ef4d0ec7cadfe2f2792d0d357d8e61c85b5b79bbe1201b7c2f0280815d1"
+    },
+    {
+      "path": "rain/codrops-physics.js",
+      "bytes": 10655,
+      "sha256": "779b7be257a4e699fe2f799aae4bb28fd8cc3d8c815bd1e8e539181173fcceab"
+    },
+    {
+      "path": "rain/create-canvas.js",
+      "bytes": 170,
+      "sha256": "f2a9735cfbbb8f91eac3956b7762a25da2c461130a894766446c8315476774d5"
+    },
+    {
+      "path": "rain/drop-contour.js",
+      "bytes": 3040,
+      "sha256": "869337c485e7756d4b3e487b9fb3058d3a7c61b6705c9bb838bc8f1212743252"
+    },
+    {
+      "path": "rain/drop-mass.js",
+      "bytes": 229,
+      "sha256": "e46bcb0d92c96494a79fd7ecd10d1f65b16359dbe3732a2699a4dd186b77f99a"
+    },
+    {
+      "path": "rain/drop-orientation.js",
+      "bytes": 3806,
+      "sha256": "c080d6a792afd2ccc75123a0395f124aff939cbad805cb172a7563e22ef56a22"
+    },
+    {
+      "path": "rain/drop-shape.js",
+      "bytes": 895,
+      "sha256": "fa69357a6f0964613e711327af05311b09686efdc2a919600bbf0d646f457d13"
+    },
+    {
+      "path": "rain/glass-beads.js",
+      "bytes": 1139,
+      "sha256": "7c054665891b725d44b65734028b88a51ed02d0ac85ee0f54a6cdfd1397ad039"
+    },
+    {
+      "path": "rain/heartfelt-field.js",
+      "bytes": 7643,
+      "sha256": "4162942b7685a3125c9e12748ab41ab735f77d41c0d66f44d3e5c783e119ff6a"
+    },
+    {
+      "path": "rain/heartfelt-rain.js",
+      "bytes": 311,
+      "sha256": "6481b8a8f445ea59fba3ea1346d3ea63ccdfab61e8b3428235c9ff2d397de026"
+    },
+    {
+      "path": "rain/pane-visibility.js",
+      "bytes": 8395,
+      "sha256": "fbc2ee3da76c1d2ddee4899cdeb5330e46c398bf6b5299936d13dc2668af2097"
+    },
+    {
+      "path": "rain/path-noise.js",
+      "bytes": 1037,
+      "sha256": "56c54fd35ba70d1d46e58146766db2d790fd98abcd4835cef94da6c5eca1ae44"
+    },
+    {
+      "path": "rain/physics.js",
+      "bytes": 336,
+      "sha256": "9b33f3dd9ba4cabfceb91d4ea8b7a96deccc38f275ce994cc9deb0e48fdfa99d"
+    },
+    {
+      "path": "rain/rain-intensity.js",
+      "bytes": 262,
+      "sha256": "da0236a13307d42f773ee66caa8e94161b800dcb9e86547d05cd0e70025000c4"
+    },
+    {
+      "path": "rain/raindrops.js",
+      "bytes": 12636,
+      "sha256": "0f1390d28f356839087824b0c29cb914a86969df41dcb701e986cbcc91d072d1"
+    },
+    {
+      "path": "rain/render-size.js",
+      "bytes": 448,
+      "sha256": "77764808fe1a80c2409dcadf1e6b23aa1ca679e858a89d5e333b95d2d52f8c31"
+    },
+    {
+      "path": "rain/simulation.js",
+      "bytes": 3905,
+      "sha256": "99c07f1eb5140430e75e492a8686a358b318371043d37c0d5402dde643001079"
+    },
+    {
+      "path": "rain/surface-friction.js",
+      "bytes": 1102,
+      "sha256": "eab5b4f32785736531e10d127f3f040f472cc18d7671d152fa475de346138a3f"
+    },
+    {
+      "path": "rain/trail-beads.js",
+      "bytes": 1938,
+      "sha256": "bcac79871c6bf18748dc067b847d104248970fab6f030ef9aa377902eba81d66"
+    },
+    {
+      "path": "rain/trail-memory.js",
+      "bytes": 4176,
+      "sha256": "6fa55715a1bfbbbadc5322a7d07b38bb363bf2440e3181fe91a5dc32c6060f6d"
+    },
+    {
+      "path": "rain/turn-drag.js",
+      "bytes": 954,
+      "sha256": "f3b484a3cadaeb8eef296e5ec8130d1fdc399f450b226068e75301ff3c6b9380"
+    },
+    {
+      "path": "rain/window-material.js",
+      "bytes": 12451,
+      "sha256": "ac375858b2faf93a5e8be43adb4909ac9e675431495814347eff341c818b8d77"
+    },
+    {
+      "path": "rooms-building2.js",
+      "bytes": 1048,
+      "sha256": "d90fd7617d60bb7a9bdabed029c19aa253302453dbd81e4ab30f78538d711311"
+    },
+    {
+      "path": "seats-building2.js",
+      "bytes": 3077,
+      "sha256": "3cbd68b92ca5c0ccd77c600103feee6290fc6e8ecccdca919dbf3513d543dbc9"
+    },
+    {
+      "path": "sound-environment.js",
+      "bytes": 1141,
+      "sha256": "d51bfc0cdc463eb0f0db96b5400f1e8291da315410a20119e14d4665ce57b573"
+    },
+    {
+      "path": "style.css",
+      "bytes": 21020,
+      "sha256": "efcf5dd658a65108cef2861b828ab5f60e4e20d956ecf2a7b0c6c3a73249bd5b"
+    },
+    {
+      "path": "style/model-outline.js",
+      "bytes": 18156,
+      "sha256": "64c9da302927a1d75d761206d41b306b099f568a36af129890c1e1186fd5e649"
+    },
+    {
+      "path": "style/ordered-dither.js",
+      "bytes": 7738,
+      "sha256": "176485cd9bb009dd7d814cd4eef376c15f1cf769c5ee9274ca87e18ea97303c8"
+    },
+    {
+      "path": "style/toon-shadows.js",
+      "bytes": 11233,
+      "sha256": "4f3810c71360f72a4508ff67e1adb5300655004932194c470387b045b7b2adc6"
+    },
+    {
+      "path": "ui-time-theme.js",
+      "bytes": 3581,
+      "sha256": "ba7cef0691753b27540067a524db8d90949fcc99678339efcae3c45b05a82365"
+    },
+    {
+      "path": "vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "vendor/controls/OrbitControls.js",
+      "bytes": 38703,
+      "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+    },
+    {
+      "path": "vendor/loaders/GLTFLoader.js",
+      "bytes": 114739,
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    },
+    {
+      "path": "vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "vendor/utils/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "walk-dissolve.js",
+      "bytes": 2032,
+      "sha256": "19efb15a8046fb1c24dd6243f39aa28a4f714585f952947b4474c509570dd0ec"
+    },
+    {
+      "path": "walk-zones.js",
+      "bytes": 10468,
+      "sha256": "d009b0a388d2234c29ea0160f4674b595e8675ea8b7c1527f09e6d34a5bca1af"
+    },
+    {
+      "path": "weather/exterior-rain.js",
+      "bytes": 9354,
+      "sha256": "96c15b78497a447913000b17521cbf81830f44fec1dcbae7ab6831020c89aeee"
+    },
+    {
+      "path": "weather/rain-renderer.js",
+      "bytes": 5883,
+      "sha256": "ae2e80dca0f196e3a3910c7ca4f57d7c9feb67455417c3929f6b54656ebaf118"
+    },
+    {
+      "path": "weather/wet-ground.js",
+      "bytes": 16752,
+      "sha256": "99bca2b7df02bca14baaa6b5595c97aa8a2f2265145d849b055350a796dbef51"
+    },
+    {
+      "path": "weather/wet-materials.js",
+      "bytes": 13125,
+      "sha256": "f59b0645ad2dc680e4efea0150b566a70ff6b8310f06377b705a4cd872aa5762"
+    },
+    {
+      "path": "window-rain.js",
+      "bytes": 8102,
+      "sha256": "0cacd2a6dd77703b5dffd9deea26290b07443e06fe8e2ebf29ac439e587cf4bf"
+    }
+  ]
+}
